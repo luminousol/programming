@@ -1,0 +1,7 @@
+*.log
+
+# JAVA
+*.class
+
+# C
+*.exe
